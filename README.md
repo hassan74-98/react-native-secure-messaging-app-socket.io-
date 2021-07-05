@@ -1,7 +1,7 @@
 # react-native-secure-messaging-app-socket.io-
-Real time messaging using socket.io 
-Authentication with biometrie or passphrase
-peer to peer encrypted messages with users keypairs
+Real time messaging using socket.io,
+authentication with biometrie or passphrase,
+peer to peer encrypted messages.
 
 <img src="/images/Login.jpg" width="300">
 <img src="/images/Home.jpeg" width="300">
