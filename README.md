@@ -2,5 +2,6 @@
 Real time messaging using socket.io 
 Authentication with biometrie or passphrase
 peer to peer encrypted messages with users keypairs
-![GitHub Logo](/images/Login.jpg)
+<img src="/images/Login.jpg" width="200">
+<!-- ![GitHub Logo](/images/Login.jpg) -->
 <!-- Format: ![Alt Text](url) -->
