@@ -1,2 +1,4 @@
 # react-native-secure-messaging-app-socket.io-
-secure peer to peer messaging app based on socket.io
+Real time messaging using socket.io 
+Authentication with biometrie or passphrase
+peer to peer encrypted messages with users keypairs
